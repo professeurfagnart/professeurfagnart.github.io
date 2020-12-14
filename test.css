@@ -7,4 +7,17 @@
 .xlsxicon summary:before{content:'';background:url('https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
 .pptxicon summary:before{content:'';background:url('https://www.gstatic.com/images/branding/product/1x/slides_2020q4_48dp.png');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
 .brainicon summary:before{content:'';background:url('https://www.flaticon.com/premium-icon/icons/svg/2196/2196302.svg');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
+.Open{display:;}
+.Closed{display:none;}
+.vacances{display:none;}
+*{user-select: none;-ms-user-select: none;-webkit-user-select: none;-moz-user-select: none;}
+a {color: {AccentColor};}
+cache:hover{color:blue;background-color:transparent;} 
+details > summary {padding: 2px 6px;width: 45em;border: none;list-style: none;  font-size: 16pt;font-family:Comfortaa;}
+details summary::-webkit-details-marker {display:none;}
+fluo{background-color:yellow;}
+h2 {background-color:#FFFFFF50;padding:5px 5px 5px 45px;} 
+td {border: 1px solid #333; font-family:Comfortaa;padding:5px;}
+u, p, li{font-family:Comfortaa;}
+#Cours{line-height:1.5em;position:relative;padding-left:25px;margin:auto;padding-top:15px;padding-bottom:10%; margin-bottom:15px;padding-right:25px;;width:90%;background-color:rgba(200, 200, 200, 0.3)}
 </style>

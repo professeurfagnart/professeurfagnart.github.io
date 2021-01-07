@@ -7,6 +7,8 @@
 .xlsxicon summary:before{content:'';background:url('https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
 .pptxicon summary:before{content:'';background:url('https://www.gstatic.com/images/branding/product/1x/slides_2020q4_48dp.png');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
 .brainicon summary:before{content:'';background:url('https://www.flaticon.com/premium-icon/icons/svg/2196/2196302.svg');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
+.mecabricksicon summary:before{content:'';background:url('https://www.mecabricks.com/assets/images/favicon.png');background-size:cover;position:absolute;width:20px;height:20px;margin-left:-25px;}
+
 .Open{display:;}
 .Closed{display:none;}
 .vacances{display:none;}

@@ -16,9 +16,9 @@ h2 {background-color:#FFFFFF50;padding:5px 5px 5px 45px;}
 td {border: 1px solid #333; font-family:Comfortaa;padding:5px;}
 u, p, li{font-family:Comfortaa;}
 #Cours{line-height:1.5em;position:relative;padding-left:25px;margin:auto;padding-top:15px;padding-bottom:10%; margin-bottom:15px;padding-right:25px;;width:90%;background-color:rgba(200, 200, 200, 0.3)}
+#TitreCours{text-align:center;color:black;padding-bottom:2em;padding-top:2em}
+test{color:red;}
 
-@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Mansalva&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Parisienne&family=Sacramento&family=Special+Elite&family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Comfortaa&family=Inconsolata&family=Mansalva&family=Open+Sans+Condensed&family=Open+Sans&family=Parisienne&family=Sacramento&family=Special+Elite&family=Spicy+Rice&display=swap');
 
 </style>
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Chewy&family=Comfortaa:wght@300;400;500;600;700&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Mansalva&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Parisienne&family=Sacramento&family=Special+Elite&family=Spicy+Rice&display=swap" rel="stylesheet">

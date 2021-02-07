@@ -2,9 +2,8 @@
 .Theorie{display:;}
 
 *{user-select: none;-ms-user-select: none;-webkit-user-select: none;-moz-user-select: none;}
-body{background-color:indigo;color:white;}
 a {color: {AccentColor};}
-u, p, li{font-family:Comfortaa;}
+u, p, li, body{font-family:Comfortaa;}
 test{color:red;}
 details > summary {padding: 2px 36px;border: none;  font-size: 16pt;font-family:Comfortaa; list-style: none;}td {border: 1px solid #333; font-family:Comfortaa;padding:5px;} H2 {background-color:#FFFFFF50;padding:5px 5px 5px 45px;}
 details summary::-webkit-details-marker {display:none;}
